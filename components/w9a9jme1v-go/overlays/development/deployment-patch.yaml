@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: rhtap-quay-quay-rhtap-quay.apps.clusterpool-68cmm.rhtap.devcluster.openshift.com/rhtap/rhtap-qe-go:f8d803085e8b2e0d9d0bfd5c02e6e6571307c984@sha256:2213ebbb73d67bc98e3688cbefd62a87b516dd5c813d5b6960547c3060d38a11
+        - image: rhtap-quay-quay-rhtap-quay.apps.clusterpool-68cmm.rhtap.devcluster.openshift.com/rhtap/rhtap-qe-go:46128625ddb5552403c1a4fbe147b67727717754@sha256:55c4cb961082fd778a2bdc3ced2711946e42e0e7919aeacf702e9715838b0387
           name: container-image
